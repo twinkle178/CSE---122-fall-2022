@@ -1,6 +1,6 @@
 # CSE---122-fall-2022
 this is a c ++ lab repository 
-Name:
-ID:
+Name: Jannatul Ferdous
+ID:21225103178
 Codeforce ID:
-Mail:
+Mail:jannatulkanok674@gmail.com
